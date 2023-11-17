@@ -1,16 +1,11 @@
-# quizzler
+# Quizzler
 
-A new Flutter project.
+Minimalist quiz game.
 
-## Getting Started
+> _"It's a yes or no type of question"_
 
-This project is a starting point for a Flutter application.
+#### Resetting the game state
+To reset the game state, just quit the app and reopen it. 🙃
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+<img src="https://images2.imgbox.com/0c/62/mywNiG4j_o.png" width = 300>
